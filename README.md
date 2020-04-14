@@ -8,6 +8,6 @@ Framework for Voxelgrid-based Space Monitoring in Human-Robot (UR5) Collaboratio
 * [UR5_API](https://github.com/DIGI2-FEUP/UR5/tree/master/UR5-API)
 ### C++ Module:
 * [ZED SDK](https://www.stereolabs.com/developers/release/)
-* [OpenPose](ttps://github.com/CMU-Perceptual-Computing-Lab/openpose)
+* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
 
