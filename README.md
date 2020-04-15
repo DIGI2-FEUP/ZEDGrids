@@ -11,4 +11,21 @@ Framework for Voxelgrid-based Space Monitoring in Human-Robot (UR5) Collaboratio
 * [PCL](http://www.pointclouds.org/downloads/)
 * [OpenCV](https://opencv.org/)
 
+## Install:
+Clone this repository :
+```bash
+    git clone https://github.com/DIGI2-FEUP/ZEDGrids
+```
+- Download and Install [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+- Put the C++ Module files inside the OpenPose folder [`examples/user_code/`](https://github.com/CMU-Perceptual-Computing-Lab/openpose/tree/master/examples/user_code)
+- Build OpenPose using [CMake](https://cmake.org/download/)
+- Install PyntCloud
+- Place voxelgrid.py file from the Python Module (replace) in PyntCloud folder [`structures´](https://github.com/daavoo/pyntcloud/tree/master/pyntcloud/structures)
+
+## Usage:
+- Run voxel_pc_server.py 
+```bash
+    python voxel_pc_server.py
+```
+- THEN Execute zed_openpose_pc.cpp (in Visual Studio)
 
