@@ -20,7 +20,7 @@ Clone this repository :
 - Put the C++ Module files inside the OpenPose folder [`examples/user_code/`](https://github.com/CMU-Perceptual-Computing-Lab/openpose/tree/master/examples/user_code)
 - Build OpenPose using [CMake](https://cmake.org/download/)
 - Install PyntCloud
-- Place voxelgrid.py file from the Python Module (replace) in PyntCloud folder [`structures´](https://github.com/daavoo/pyntcloud/tree/master/pyntcloud/structures)
+- Place voxelgrid.py file from the Python Module (replace) in PyntCloud folder [`structures`](https://github.com/daavoo/pyntcloud/tree/master/pyntcloud/structures)
 
 ## Usage:
 - Run voxel_pc_server.py 
