@@ -1,7 +1,7 @@
 # ZEDGrids
 Framework for Voxelgrid-based Space Monitoring in Human-Robot (UR5) Collaboration Environments, using ZED camera, OpenPose and PyntCloud. It allows to create several types of voxelgrids like the typical Occupancy Grid (binary) or our proposed Labeled Occupancy Grid, LOG, that labels voxels according to the elements present: human operator, robot, task objects, or static obstacles (like walls or tables).
 
-![screenshot](images/diagram.jpeg)
+![screenshot](Images/diagram.jpg)
 
 ## Dependencies
 ### Python Module:
